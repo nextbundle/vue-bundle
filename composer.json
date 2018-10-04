@@ -1,0 +1,13 @@
+{
+    "name": "nextbundle/vue-webpack",
+    "description": "console application to speed up and facilitate the development of vuejs applications",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kamga Simo Junior",
+            "email": "kamgasimojunior@gmail.com"
+        }
+    ],
+    "require": {}
+}
