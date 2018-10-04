@@ -1,0 +1,25 @@
+{
+  "name": "vue-webpack",
+  "version": "1.0.0",
+  "description": "console application to speed up and facilitate the development of vuejs applications",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nextbundle/vue-webpack.git"
+  },
+  "keywords": [
+    "nextbundle",
+    "vue-webpack",
+    "console",
+    "application",
+    "framework"
+  ],
+  "author": "Kamga Simo Junior <kamgasimojunior@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nextbundle/vue-webpack/issues"
+  },
+  "homepage": "https://github.com/nextbundle/vue-webpack#readme"
+}
