@@ -1,2 +1,2 @@
-# vue-bundle
-console application to speed up and facilitate the development of vuejs applications 
+# vue-webpack
+@nextbplates /vue-webpack + File Generator console application + @nextdesigner /vue + @nextcomponents
